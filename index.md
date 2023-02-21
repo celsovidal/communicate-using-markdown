@@ -1,6 +1,6 @@
 # Hello World
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
+### A check list of things to enjoy in the picture.
+- [ ] The crown
+- [ ] The ears on fire
+- [ ] The blue coat
